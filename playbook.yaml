@@ -12,6 +12,6 @@
         state: present
     - name: copy the content
       copy: 
-        content: "hii i am anil"
+        content: hii i am anil
         dest: "/home/anil/anil.txt
        
