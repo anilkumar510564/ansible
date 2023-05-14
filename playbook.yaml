@@ -13,5 +13,5 @@
     - name: copy the content
       copy: 
         content: "hii i am anil"
-      dest: "/home/anil/anil.txt
+        dest: "/home/anil/anil.txt
        
